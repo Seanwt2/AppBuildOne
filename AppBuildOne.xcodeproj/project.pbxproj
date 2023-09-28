@@ -16,6 +16,7 @@
 		7865F4162AC2BCF6008D5D84 /* AppBuildOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7865F4152AC2BCF6008D5D84 /* AppBuildOneTests.swift */; };
 		7865F4202AC2BCF6008D5D84 /* AppBuildOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7865F41F2AC2BCF6008D5D84 /* AppBuildOneUITests.swift */; };
 		7865F4222AC2BCF6008D5D84 /* AppBuildOneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7865F4212AC2BCF6008D5D84 /* AppBuildOneUITestsLaunchTests.swift */; };
+		7865F42F2AC53BC6008D5D84 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7865F42E2AC53BC6008D5D84 /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7865F41B2AC2BCF6008D5D84 /* AppBuildOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppBuildOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7865F41F2AC2BCF6008D5D84 /* AppBuildOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBuildOneUITests.swift; sourceTree = "<group>"; };
 		7865F4212AC2BCF6008D5D84 /* AppBuildOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBuildOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7865F42E2AC53BC6008D5D84 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				7865F3FE2AC2BCF4008D5D84 /* AppDelegate.swift */,
 				7865F4002AC2BCF4008D5D84 /* SceneDelegate.swift */,
 				7865F4022AC2BCF4008D5D84 /* ViewController.swift */,
+				7865F42E2AC53BC6008D5D84 /* ViewControllerTwo.swift */,
 				7865F4042AC2BCF4008D5D84 /* Main.storyboard */,
 				7865F4072AC2BCF6008D5D84 /* Assets.xcassets */,
 				7865F4092AC2BCF6008D5D84 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				7865F4032AC2BCF4008D5D84 /* ViewController.swift in Sources */,
 				7865F3FF2AC2BCF4008D5D84 /* AppDelegate.swift in Sources */,
 				7865F4012AC2BCF4008D5D84 /* SceneDelegate.swift in Sources */,
+				7865F42F2AC53BC6008D5D84 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
